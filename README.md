@@ -1,3 +1,5 @@
+### This repo is deprecated. Please check out the new repositry https://github.ocm/s9xie/hed for an updated version of HED. (Including training/testing code and a better pretrained model!)
+
 #Holistically-Nested Edge Detection
 
 
